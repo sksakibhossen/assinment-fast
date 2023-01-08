@@ -1,0 +1,32 @@
+.line{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+.other img{
+    width: 400px;
+    height: 200px;
+}
+.teg{
+    margin-left: 100px;
+}
+.btn{
+    background-color: aqua;
+    border-radius: 5px;
+}
+.c{
+    color: tomato;
+}
+.pic img{
+    width: 400px;
+    height: 300px;
+}
+.flex{
+    display: flex;
+    margin-top: 40px;
+    background-color: whitesmoke;
+}
+.t{
+    padding-left: 100px;
+}
